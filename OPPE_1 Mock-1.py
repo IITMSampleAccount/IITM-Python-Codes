@@ -6,4 +6,4 @@ if mistake != 0:
     
     print(input.replace('o', '0').replace('l','1'))
 else:
-    print('No mistakes')    
+    print('Nothing mistakes')    
